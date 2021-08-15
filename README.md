@@ -12,6 +12,16 @@
 [Demo chart bars here!](https://github.com/annes-github/bar-chart-bar-react/index.html)
 
 
+## Installation
+
+ 
+```bash
+
+ npm install --save bar-chart-bar-react   # using NPM
+ yarn add bar-chart-bar-react            # using yarn
+```
+
+
 ## Example use
 
 ```javascript
@@ -30,5 +40,8 @@ import {Bar} from 'bar-chart-bar-react';
            )
          })
         }
-        
+ ```       
  
+## Contributions
+
+Pull requests are welcome!
