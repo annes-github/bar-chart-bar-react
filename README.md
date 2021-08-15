@@ -1,10 +1,8 @@
 # bar-chart-bars-react   ![bar-chart-32](https://user-images.githubusercontent.com/80990739/129469078-fdaf4873-e5c4-4daf-880c-90cbe7d35902.png)
 
-[![Travis][build-badge]][build]
+
 [![npm package][npm-badge]][npm]
 
-
-[build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 
 [npm-badge]: https://img.shields.io/npm/v/npm-package.png?style=flat-square
 [npm]: https://www.npmjs.org/package/npm-package
