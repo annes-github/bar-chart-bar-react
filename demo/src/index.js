@@ -7,7 +7,6 @@ import InputText from '../../src/InputText/InputText.js';
 import Title from '../../src/Title/Title.js';
 import DateInput from '../../src/DateInput/DateInput.js';
 import './App.css';
-// import './Images/bar-chart.png'
 
 
 function App() {
@@ -63,7 +62,6 @@ function App() {
      <Title
       title="Bar Chart Currency Exchange Rates Demo   "
      />
-     {/* <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> */}
     
     <div className="controls">
       <InputText

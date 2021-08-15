@@ -3,8 +3,6 @@ import './InputText.css';
 import '../DateInput/DateInput.js'
 
 
-
-
 function InputText(props) {
 return (
     <div className="BarChartInput">

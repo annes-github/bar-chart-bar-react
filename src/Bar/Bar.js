@@ -2,7 +2,6 @@ import React from 'react';
 import './Bar.css';
 
 
-
 function Bar(props) {
 
     return(
