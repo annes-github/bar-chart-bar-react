@@ -1,0 +1,18 @@
+body {
+  display: grid;
+  justify-content: center;
+  grid-template-rows: auto ;
+  background-color: lightskyblue;
+} 
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.submitButton{
+  width: 65px;
+  height: 25px;
+  margin: 10px;
+}
